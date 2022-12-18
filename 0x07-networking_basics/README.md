@@ -1,46 +1,42 @@
-# 0x07. Networking basics #0
+#Holberton School - 0x07-networking_basics
+Answer questions based on the OSI Model
 
+## New Commands:
+``ping`` -- sends an ICMP request to a server ``netstat`` -- Displays a list of servers a machine is connected to 
 
-## Resources
+## Helpful Links
+* [OSI Definition](http://searchnetworking.techtarget.com/definition/OSI)
+* [Lans, Wans and other Area Networks](https://www.lifewire.com/lans-wans-and-other-area-networks-817376)
+* [What is a LAN?](http://searchnetworking.techtarget.com/definition/local-area-network-LAN)
+* [What is a WAN](http://searchenterprisewan.techtarget.com/definition/WAN)
+* [This is the Internet, according to Wikipedia](https://en.wikipedia.org/wiki/Internet)
+* [What is my IP address.com on Mac Address](http://whatismyipaddress.com/mac-address)
+* [The IP address explained](https://www.bleepingcomputer.com/tutorials/ip-addresses-explained/)
+* [Public vs private IP Addresses](https://www.iplocation.net/public-vs-private-ip-address)
+* [Difference between IPv4 and IPv6](http://www.webopedia.com/DidYouKnow/Internet/ipv6_ipv4_difference.html)
+* [Wikipedia: Local Host](https://en.wikipedia.org/wiki/Localhost)
+* [The Difference between TCP and UDP](http://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/)
+* [List of TCP and UDP Port Numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+* [Wikipedia: What is the PING utility?](https://en.wikipedia.org/wiki/Ping_(networking_utility))
+* [Scripting with Posparams](http://wiki.bash-hackers.org/scripting/posparams)
+* [
 
-```Read or watch```:
+## Description of Files
+<h6>0-OSI_model</h6>
+![The Osi Model](osi.png)
+Answers for the OSI Model
 
-- [OSI model](https://alx-intranet.hbtn.io/rltoken/k2uCsynicuNbu1cAQhXqVQ)
-- [Different types of network](https://alx-intranet.hbtn.io/rltoken/XW3ZGm5Ya_a8XVDXcAKT_A)
-- [LAN network](https://alx-intranet.hbtn.io/rltoken/en370-Hrwgi_GUvFcg3bKg)
-- [WAN network](https://alx-intranet.hbtn.io/rltoken/Ah1EKqnINR85lM4P2WnLSw)
-- [Internet](https://alx-intranet.hbtn.io/rltoken/Lwh9xQxFD4dWh5sIApXI1g)
-- [MAC address](https://alx-intranet.hbtn.io/rltoken/j-Wp-YRvFTVP04SpIeRzHQ)
-- [What is an IP address]()
-- [Private and public address](https://alx-intranet.hbtn.io/rltoken/HaZZvrmGaQ3U7ZLDYgZb6w)
-- [IPv4 and IPv6](https://alx-intranet.hbtn.io/rltoken/M8g-egWLlldTl6Y0QECdwA)
-- [Localhost](https://alx-intranet.hbtn.io/rltoken/7lj-zoZQ7xFTkj4MTyos_g)
-- [TCP and UDP](https://alx-intranet.hbtn.io/rltoken/uJbs8E9-FyATfsELpmtTIg)
-- [TCP/UDP ports List](https://alx-intranet.hbtn.io/rltoken/4PYkqDfOvIZZb9aUPGOOzQ)
-- [What is ping /ICMP](https://alx-intranet.hbtn.io/rltoken/3zBgO6r2M1Q8lUVt9g8aJw)
-- [Positional parameters](https://alx-intranet.hbtn.io/rltoken/ZbMHH3jmxFhcrbigVy15iw)
+<h6>1-types_of_network</h6>
+Answers for task 1
 
-## Learning Objectives
-### General
-> OSI Model
-- What it is
-- How many layers it has
-- How it is organized
-- What is a LAN
-- Typical usage
-- Typical geographical size
-> What is a WAN
-- Typical usage
-- Typical geographical size
-> What is the Internet
-- What is an IP address
-- What are the 2 types of IP address
-- What is localhost
-- What is a subnet
-- Why IPv6 was created
-> TCP/UDP
-- What are the 2 mainly used data transfer protocols for IP (transfer level on the OSI schema)
-- What is the main difference between TCP and UDP
-- What is a port
-- Memorize SSH, HTTP and HTTPS port numbers
-- What tool/protocol is often used to check if a device is connected to a network
+<h6>2-MAC_and_IP_address</h6>
+Answers for task 2
+
+<h6>3-UPD_and_TCP</h6>
+Answers for task 3
+
+<h6>4-TCP_and_UDP_ports</h6>
+Answers for task 4
+
+<h6>5-is_the_host_on_the_network</h6>
+Answers for task 5
